@@ -1,4 +1,4 @@
-# Bankist PROJECT
+# Bankist PROJECT (MOBILE BANK)
 
 Bankist - Mobile Banking for minimalist users
 
