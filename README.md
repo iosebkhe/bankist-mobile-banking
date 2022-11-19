@@ -23,3 +23,9 @@ Check the final project:
 - Grid
 - SCSS
 - Javascript
+
+## Author
+
+- CodePen - [@iosebkhe](https://codepen.io/iosebkhe)
+- Frontend Mentor - [@iosebkhe](https://www.frontendmentor.io/profile/yourusername)
+- Linkedin - [Ioseb Khetsuriani](https://www.linkedin.com/in/ioseb-khetsuriani-1831801b5/)
