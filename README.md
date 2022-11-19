@@ -2,6 +2,9 @@
 
 Bankist - Mobile Banking for minimalist users
 
+User : js
+pass: 1111
+
 # Links
 
 Created with the help of this amazing JS course:
